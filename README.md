@@ -4,10 +4,8 @@
 
 
 - 🌱 I’m currently learning 
- .Java 
-.MySQL
-.Salesforce
-.java Spring Boot 
+ **Java,MySQL,Salesforce,
+java Spring Boot**
 
 - 📫 How to reach me **aswathedu@gmail.com**
 
